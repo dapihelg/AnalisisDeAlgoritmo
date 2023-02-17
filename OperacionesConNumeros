@@ -1,5 +1,5 @@
 public OperacionesConNumeros{
+    int[] num = int[15];
 
-
-
+    
 }
